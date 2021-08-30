@@ -1,0 +1,23 @@
+@import "Resume/SCSS/bootstrap.css";
+.bg-primary {
+    background-color: black;
+}
+
+body {
+    background-color: #86bcf6;
+    font-family: "Helvetica", serif;
+}
+
+footer {
+    background-color: #23305e;
+}
+
+.btn {
+    background-color: black;
+}
+
+.jumbotron {
+    background-color: #d6e6f6;
+}
+
+/*# sourceMappingURL=Style.css.map */

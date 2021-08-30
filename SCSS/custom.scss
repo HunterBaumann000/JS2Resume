@@ -1,0 +1,36 @@
+@import "ss";
+
+$theme-colors: (
+        "primary": #0074d9,
+        "danger": #ff4136
+);
+
+$backgroundColor: #86bcf6;
+$footerColor: #23305e;
+$jumbotronColor: #86BCF6FF;
+$secondaryColor: #d6e6f6;
+
+.bg-primary {
+  background-color: black;
+}
+
+body {
+  background-color: $backgroundColor;
+  font-family: "Helvetica", serif;
+}
+
+footer{
+  background-color: $footerColor;
+}
+
+.btn {
+  background-color: black;
+}
+
+.jumbotron {
+  background-color: $secondaryColor;
+}
+
+
+
+
